@@ -1,4 +1,4 @@
-# FoodTime
+# FoodOrder System
 
 FoodTime - **MERN** stack food ordering application.
 
