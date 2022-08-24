@@ -18,8 +18,7 @@ Website: [https://foodtime-app.herokuapp.com](https://foodtime-app.herokuapp.com
 - MongoDB
 - Nodejs
 - Expressjs
-- Materializecss
-- Json Web Token
+
 
 ## Installation
 
